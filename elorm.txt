@@ -1,0 +1,32 @@
+<section id="about">
+      <div class="about-section-container">
+        <h1 class="title">About Me</h1>
+      <div class="section-container">
+        <div class="details-container">
+          <img
+            src="./assets/education.png"
+            alt="Education icon"
+            class="icon"/>
+          <h3>Education</h3>
+          <p>HND Computer Network Management</p>
+        </div>
+      </div>
+      <div class="text-container">
+        <p>
+          I'm Elorm, A final year student at Koforidua Technical University.
+          A skilled and
+          creative Software and web applications developer with a passion for creating beautiful,
+          responsive, and user-friendly Softwares/Applications. I've worked on a variety of
+          projects, ranging from personal projects, sites to e-commerce platforms.
+        </p>
+          </div>
+        </div>
+      </div>
+      <img
+        src="./assets/arrow.png"
+        alt="Arrow icon"
+        class="icon arrow"
+        onclick="location.href='./#experience'"
+      />
+      </div>
+    </section>
